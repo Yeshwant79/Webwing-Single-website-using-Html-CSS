@@ -20,7 +20,7 @@
         nav a:active{ background-color:red;}
 
 /* ---------------------------------------------------------------------------------- */
-        .s1{ height:70vh; width: 100%; background-image:url('../pogo/07.jpg'); background-size: cover; background-position:center;}
+        .s1{ height:70vh; width: 100%; background-image:url('img/07.jpg'); background-size: cover; background-position:center;}
         .overlay{ height:70vh; width: 100%; background:rgba(243, 243, 237, 0.8); display: flex;justify-content: center; align-items: center;}
         .mater{ color:solid black; text-align: center;opacity: 1;}
 /* ---------------------------------------------------------------------------------- */
@@ -88,7 +88,7 @@
 /* ------------------------------------------------------------------------------------ */
         footer{ height: 5in; width: 100%;}
 
-        .ft1{ height:4in; width: 100%; background-image: url("../pogo/Wellcome.jpg"); background-repeat: repeat; background-size: cover; background-position: center; margin-top:15px;}
+        .ft1{ height:4in; width: 100%; background-image: url("img/Wellcome.jpg"); background-repeat: repeat; background-size: cover; background-position: center; margin-top:15px;}
 
         .ov{ height:41n; width: 100%; background:rgba(243, 243, 237, 0.8); display: flex;justify-content: center;}
 
@@ -121,8 +121,6 @@
         .g3 input{ height:0.7cm; border:1px solid salmon; border-radius: 30px; font-size:15px; margin-top: 0.5cm;}
         .g3 button{ background-color: #f2db18; height: 1cm; width: 3cm; border-radius: 30px; border: transparent; margin-top: 0.5cm;}
         .g3 button:hover{ background-color: #154492; color: white;}
-
-
 
 /* ------------------------------------------------------------------------------------------ */
         
